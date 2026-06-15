@@ -5,3 +5,4 @@ check if a discord token works
 ```
 python main.py YOUR_TOKEN
 ```
+

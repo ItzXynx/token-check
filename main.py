@@ -23,3 +23,4 @@ if __name__ == "__main__":
         print(f"nitro: {bool(user.get('premium_type'))}")
     else:
         print("invalid token")
+# updated
